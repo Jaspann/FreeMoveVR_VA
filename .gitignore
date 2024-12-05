@@ -1,0 +1,11 @@
+venv/
+__MACOSX/
+.vscode/
+FreeMoveVR/
+FreeMoveVR.zip
+data.json
+
+# RAG Docs
+desktop_documents/
+mobile_documents/
+driver_documents/
