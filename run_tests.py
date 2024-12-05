@@ -82,7 +82,7 @@ for query in test_questions:
         'question': query,
         'database_value': database_value,
         'related_docs': related_docs,
-        'output': output
+        'output': output['response']
     }
 
     try:
